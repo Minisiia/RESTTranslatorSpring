@@ -12,3 +12,5 @@ Implement your first simple REST word translation services. The service knows ab
 ### Строка запроса
 
 http://localhost:8080/translator?ukrainian_word=привіт
+
+![rest-spring](https://github.com/Minisiia/RESTTranslatorSpring/assets/113467640/c68f606b-7a82-442a-9c6d-6d321e680dc7)
