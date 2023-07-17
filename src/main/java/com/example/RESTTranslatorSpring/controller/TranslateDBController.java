@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class TranslateDBController {
-
     public TranslateDBService  translateDBService;
     @Autowired
     public TranslateDBController(TranslateDBService translateDBService) {
