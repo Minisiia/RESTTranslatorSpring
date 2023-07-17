@@ -1,7 +1,7 @@
 package com.example.RESTTranslatorSpring.repository;
 
 
-import com.example.RESTTranslatorSpring.accessingdatamysql.Translations;
+import com.example.RESTTranslatorSpring.model.Translations;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

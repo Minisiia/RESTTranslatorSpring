@@ -1,4 +1,4 @@
-package com.example.RESTTranslatorSpring.accessingdatamysql;
+package com.example.RESTTranslatorSpring.model;
 
 import jakarta.persistence.*;
 
